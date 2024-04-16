@@ -52,7 +52,7 @@ export default function home(){
                         </h4>
 
                         <div id="resume" className="text-regular text-lg w-48 bg-slate-800 ml-40 mt-4 pb-1 pt-1 text-center" ref={resumeRef}>
-                            <a href="/assets/Resume.pdf" target="_blank" className="font-poppins hover:text-gray-200 duration-150">Download Resume</a>
+                            <a href="/assets/HarshaChakravarthy" target="_blank" className="font-poppins hover:text-gray-200 duration-150">Download Resume</a>
                         </div>
                     </div>
                 </div>
