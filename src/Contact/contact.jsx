@@ -47,7 +47,7 @@ export default function Contact () {
 
                 <div id="instaQR" className="flex pb-20 pt-24">
                     <h1 className="text-left text-2xl pt-28 pl-32">Or maybe send a DM:</h1>
-                    <a href="https://www.instagram.com/harshachakravarthy?igsh=MWRkdTVpbD12NjY5bg==" target="_blank"><img className="pl-40 ml-4 hover:scale-105 duration-500 " id="instaQR" src="/assets/Instagram.png"/></a>
+                    <a href="https://www.instagram.com/harshachakravarthy?igsh=MWRkdTVpbD12NjY5bg==" target="_blank"><img className="pl-40 ml-4 hover:scale-105 duration-500 " id="instaQR" src="https://github.com/KidKat27/my-resume-app/blob/main/assets/Instagram.png?raw=true"/></a>
                 </div>
 
                 <div id="footer" className="font-poppins text-gray-200 pt-44 pl-28 ">

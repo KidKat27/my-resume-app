@@ -126,7 +126,7 @@ export default function About () {
                 <p className="font-poppins text-2xl text-gray-200 text-left pt-10 pl-28">Oh yeah, I also produce electronic dance music.</p>
                     <div className="pl-20 pb-40">
                         <audio controls className="mt-10 pr-20 w-full ">
-                            <source src="/assets/Song1.mp3"/>
+                            <source src="https://github.com/KidKat27/my-resume-app/blob/75c35633bea0b6a82cd02976d943e9bba5ffab4c/assets/Song1.mp3"/>
                         </audio>
                         <audio controls className="mt-10 pr-20 w-full ">
                             <source src="/assets/Song2.mp3"/>
