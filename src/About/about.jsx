@@ -129,7 +129,7 @@ export default function About () {
                             <source src="https://github.com/KidKat27/my-resume-app/raw/main/assets/Song1.mp3"/>
                         </audio>
                         <audio controls className="mt-10 pr-20 w-full ">
-                            <source src="/assets/Song2.mp3"/>
+                            <source src="https://github.com/KidKat27/my-resume-app/raw/main/assets/Song2.mp3"/>
                         </audio>
                     </div>
                 </div>
