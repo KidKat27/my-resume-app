@@ -45,7 +45,7 @@ export default function About () {
             <div id="about-body" className="font-poppins bg-darkbg text-center" ref={bodyRef}>
             <h1 id="aboutH1" className="font-poppins pt-20 text-5xl sm:text-7xl font-bold text-gray-200 opacity-1">ABOUT ME.</h1>
                 <div id="container" className="" >
-                    <img id="my-img" className="rounded-2xl" src="/assets/myImg4.jpg" />
+                    <img id="my-img" className="rounded-2xl" src="https://github.com/KidKat27/my-resume-app/blob/main/assets/myImg4.jpg?raw=true" />
                     <p className="font-poppins text-2xl text-gray-200 text-left pl-10 pr-10" ref={paragraphRef}>
                         Hi, welcome!<br/><br/>
                         I’m Harsha, a <p id="highlight-text" className="m-0 p-0 inline" ref={highlight1Ref}>passionate</p> 
