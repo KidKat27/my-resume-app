@@ -142,7 +142,7 @@ export default function About () {
                     If given an opportunity, I would surely give 100% of my commitment towards delivering excellent results.</p>
 
                     <div id="resume" className="text-regular text-lg w-48 bg-slate-800 ml-28 mt-4 pb-1 pt-1 text-center">
-                        <a href="/assets/HarshaChakravarthy.pdf" target="_blank" className="font-poppins hover:text-gray-200 duration-150">Download Resume</a>
+                        <a href="https://drive.google.com/file/d/1zsLLpGAhS4LchtM7HtiUHtwt-2XF6fgy/view?usp=drive_link" target="_blank" className="font-poppins hover:text-gray-200 duration-150">Download Resume</a>
                     </div>
                 </div>
         </div>
