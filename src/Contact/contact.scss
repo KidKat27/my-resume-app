@@ -1,0 +1,56 @@
+#contactBody{
+    height: 120vh;
+    border-radius: 10% 10% 0 0;
+}
+
+#email{
+    font-size: 4rem;
+}
+
+#instaQR{
+    height: 16rem;
+    background-color: #1a1a15;
+}
+
+@media screen and (max-width: 1024px) {
+    #contactBody{
+        height: auto;
+        border-radius: 0% 0% 0 0;
+
+        p{
+            padding-left: 2rem;
+            padding-bottom: 0px;
+        }
+
+        #email{
+            padding-top: 2rem;
+            font-size: 1.25rem;
+        }
+
+        #instaQR{
+            display: block;
+            text-align: center;
+            padding-bottom: 2rem;
+            padding-left: 5rem;
+
+            h1{
+                padding-top: 2rem;
+                padding-left: 0px;
+            }
+            img{
+                padding-top: 2rem;
+                padding-left: 1.5rem;
+                margin-left: 0rem;
+            }
+        }
+
+        #footer{
+            display: none;
+        }
+
+        #footer2{
+            padding-top: 20rem;
+            display: block;
+        }
+    }
+}
